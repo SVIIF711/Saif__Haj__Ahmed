@@ -6,12 +6,11 @@
 <details>
 <p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify?user=SaifHajAhmed)](https://open.spotify.com/user/SaifHajAhmed)
 
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SaifHajAhmed&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/SaifHajAhmed-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
 
 <hr></hr>
@@ -29,5 +28,4 @@
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Spring Boot & Angular**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp; I like building **Web Applications**.<br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Java, Web Dev, or Projects**.<br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Saif Haj Ahmed](https://t.me/spxd007)**<br>
 
